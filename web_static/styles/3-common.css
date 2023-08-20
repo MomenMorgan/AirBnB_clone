@@ -1,0 +1,13 @@
+body {
+       margin: 0%;
+       padding: 0%;
+       color: #484848;
+       font-size: 14px;
+       font-family: circular, Helvetica Neue, Helvetica,Arial,sans-serif;
+        
+}
+
+.tab{
+        background-image: url(../images/icon.png);
+        
+}
